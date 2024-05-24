@@ -3,7 +3,7 @@ const checkBtn = document.getElementById("check-btn");
 const result = document.getElementById("result");
 const year = document.getElementById("year");
 
-//const date = new Date();
+//const date = new Date();//
 //year.textContent = date.getFullYear();
 
 checkBtn.addEventListener("click", () => {
