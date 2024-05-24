@@ -3,6 +3,9 @@ const checkBtn = document.getElementById("check-btn");
 const result = document.getElementById("result");
 const year = document.getElementById("year");
 
+//const date = new Date();
+//year.textContent = date.getFullYear();
+
 checkBtn.addEventListener("click", () => {
   const lowerReplaced = textInput.value
     .toLowerCase()
