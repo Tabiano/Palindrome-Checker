@@ -58,3 +58,23 @@ footer {
     position: fixed;
     bottom: 0;
 }
+a:link {
+    color: lime;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: lime;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
